@@ -10,7 +10,7 @@ Display notifications on your desktop from your VPS or Home Server and continue 
      * pynotify
 3. Edit the ```local_server.py``` script to match your identity for the ssh login and a free port.
 4. run ```local_server.py```
-5. setup your applications to call ```remote_notify``` for notifications
+5. setup your applications to call ```remote_notify.py``` for notifications
 6. enjoy!
 
 ## Security implications
